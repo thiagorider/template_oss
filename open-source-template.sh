@@ -7,13 +7,13 @@ root_files=(
   ".gitignore"
   "CHANGELOG.md"
   "README.md"
+  "CODE_OF_CONDUCT.md"
 )
 
 docs_files=(
   "CONTRIBUTING.adoc"
   "DEVELOPMENT.md"
   "INSTALL.md"
-  "CODE_OF_CONDUCT.md"
 )
 
 gh_issue_template_files=(
