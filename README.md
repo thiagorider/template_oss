@@ -17,7 +17,7 @@ Other things to include:
 
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
 
-![Photo: Encore - at a glance / SVT / CC-BY-SA 4.0](https://github.com/thiagorider/template_oss/blob/master/screenshot.jpeg)
+![Photo: Encore - at a glance / SVT / CC-BY-SA 4.0](https://github.com/thiagorider/template_oss/blob/main/screenshot.jpeg)
 <figcaption>Photo: Encore - at a glance / SVT / CC-BY-SA 4.0.</figcaption>
 
 
