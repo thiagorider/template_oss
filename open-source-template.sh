@@ -13,7 +13,7 @@ docs_files=(
   "CONTRIBUTING.adoc"
   "DEVELOPMENT.md"
   "INSTALL.md"
-  "CODE_OF_CONDUCT.adoc"
+  "CODE_OF_CONDUCT.md"
 )
 
 gh_issue_template_files=(
